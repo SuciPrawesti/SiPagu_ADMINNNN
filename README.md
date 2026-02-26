@@ -1,7 +1,7 @@
 # SiPagu_ADMIN
 
 # NOTE PERUBAHAN YANG AKU LAKUKAN:
-* HALAMAN LOGIN ADA NOTIFIKASI GAGAL JIKAS SLH PASS ATAU NPP: > MENGGANTI CODE FILE login.php, login_aksi.php
+* HALAMAN LOGIN ADA NOTIFIKASI GAGAL JIKA SALAH PASS ATAU NPP: > MENGGANTI CODE FILE login.php, login_aksi.php
 * HALAMAN index.php di folder admin aku ubah code full
 * HALAMAN MENU UPLOAD DAN DATA aku ubah code full
 * HALAMAN settings.php aku ubah code full
